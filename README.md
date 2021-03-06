@@ -11,5 +11,5 @@ You can find an example of using the gretel API in the `notebooks` folder
 Jupyter notebook in the `notebooks` folder. 
 
 Data profiling for both the seed and syn data: 
-- `data-profiling/Seed_report.html`
-- `data-profiling/Syn-report.html` 
+- `Seed_report.html`
+- `Syn-report.html` 
