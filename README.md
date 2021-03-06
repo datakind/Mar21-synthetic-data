@@ -13,3 +13,7 @@ Jupyter notebook in the `notebooks` folder.
 Data profiling for both the seed and syn data: 
 - `Seed_report.html`
 - `Syn-report.html` 
+
+## Analyzing Missing Trends in Gretel's Synthetic Data
+
+Hypothesis testing to figure out why the synthetically generated dataset by gretel.ai tends to miss out on certain variables. All resources for experimentation and results in the `hypothesis-testing-gretel` folder. 
