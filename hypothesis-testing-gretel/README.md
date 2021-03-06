@@ -16,4 +16,5 @@ over which symptoms are expressed and making the data more sensitive in this reg
 
 
 (Experimentation and Compilation work: [Keerat Kaur Guliani](https://github.com/KeeratKG);
-Supporting members: Burhan, Kevin, Jay) 
+Supporting members: Burhan, Kevin, Jay; 
+Kudos to Yamini for the wonderful guide to gretel and sharing her gretel report for the original dataset!) 
