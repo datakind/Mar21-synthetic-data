@@ -1,0 +1,13 @@
+name: tensorflow
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - tensorflow
+  - ipython
+  - jupyter
+  - pandas
+  - scikit-learn
+  - matplotlib
+
