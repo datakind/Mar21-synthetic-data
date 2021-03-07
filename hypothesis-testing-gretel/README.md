@@ -1,4 +1,4 @@
-## Hypothesis testing to figure out why the synthetically generated dataset by gretel.ai tends to miss out on certain variables
+## [Hypothesis testing to figure out why the synthetically generated dataset by gretel.ai tends to miss out on certain variables](https://docs.google.com/presentation/d/1ZHd4volTQH3P8oa3qolrEe67v9CmPh5kGPvYFUVgu6Y/edit#slide=id.gc58ce14fcd_0_1544)
 
 **Observation**: 5 binary variables(cough, fever, throat, breathing, malaise) corresponding to the symptoms recorded due to COVID, despite showing higher correlation amongst them 
 than any other variables in the dataset, fail to get picked up by the gretel algorithm and do not get translated into the synthetically generated data. Surprisingly,
